@@ -8,6 +8,8 @@ This project is a Java conversion of a C# coding example.
 [Click here](https://www.codeproject.com/Articles/1083348/Csharp-BAD-PRACTICES-Learn-how-to-make-a-good-code)
 to see the original C# example.
 
+The original code was distrbitued under the [The Code Project Open License (CPOL)](https://www.codeproject.com/info/cpol10.aspx)
+
 ## Details
 
 This project uses Maven, a common build and software management tool. It also makes use of TravisCI, an online continuous integration tool and Codecov, an code coverage tool. This project includes examples of:
