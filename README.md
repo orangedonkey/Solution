@@ -2,13 +2,13 @@
 
 [![Code Coverage](https://img.shields.io/codecov/c/github/orangedonkey/Solution/master.svg)](https://codecov.io/github/orangedonkey/Solution?branch=master)
 
+<!---
 # Solution 
-
 This project is a Java conversion of a C# coding example.
 [Click here](https://www.codeproject.com/Articles/1083348/Csharp-BAD-PRACTICES-Learn-how-to-make-a-good-code)
 to see the original C# example.
-
 The original example [here](https://www.codeproject.com/Articles/1083348/Csharp-BAD-PRACTICES-Learn-how-to-make-a-good-code) and this solution are distributed under the [The Code Project Open License (CPOL)](https://www.codeproject.com/info/cpol10.aspx).
+-->
 
 ## Details
 
