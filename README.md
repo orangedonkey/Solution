@@ -8,7 +8,7 @@ This project is a Java conversion of a C# coding example.
 [Click here](https://www.codeproject.com/Articles/1083348/Csharp-BAD-PRACTICES-Learn-how-to-make-a-good-code)
 to see the original C# example.
 
-The original code was distrbitued under the [The Code Project Open License (CPOL)](https://www.codeproject.com/info/cpol10.aspx)
+The original example [here](https://www.codeproject.com/Articles/1083348/Csharp-BAD-PRACTICES-Learn-how-to-make-a-good-code) and this solution are distrbitued under the [The Code Project Open License (CPOL)](https://www.codeproject.com/info/cpol10.aspx).
 
 ## Details
 
